@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ImTryin.Daml.Dump": {
+      "commandName": "Project",
+      "commandLineArgs": "--v2:user=alice --outputFile=create-daml-app.dump"
+    }
+  }
+}
